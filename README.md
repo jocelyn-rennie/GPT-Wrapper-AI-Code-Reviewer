@@ -5,6 +5,7 @@ Placed 2nd in a 10-day Valyfy AI Assistant competition.
 ## Description
 Over 10 days, I created a wireframe for my website using Vercel (v0) and then actually created the website and its functionalities by prompting the AI in the Cursor application. I had not used these tools before and I much enjoyed learning how to use them. It was so interesting to see how powerful AI could be, I had created something I had never done before by just using the help of AI prompts.
 
+
 <img width="1840" height="743" alt="image" src="https://github.com/user-attachments/assets/44a82eaf-a371-4ecc-8948-bf185d70c3d2" />
 
 ## Access to the website
