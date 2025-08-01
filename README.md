@@ -7,10 +7,6 @@ Over 10 days, I created a wireframe for my website using Vercel (v0) and then ac
 
 <img width="1840" height="743" alt="image" src="https://github.com/user-attachments/assets/44a82eaf-a371-4ecc-8948-bf185d70c3d2" />
 
-<img width="1797" height="1152" alt="image" src="https://github.com/user-attachments/assets/2c7fb07b-c554-4538-94ea-96ced79fb47e" />
-
-<img width="1793" height="729" alt="image" src="https://github.com/user-attachments/assets/34be85ac-f483-4ad6-98c3-7d7835338b31" />
-
 ## Access to the website
 
 **Please follow this link:** https://v0-ai-code-assistant-wireframe.vercel.app/
